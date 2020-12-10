@@ -6,10 +6,10 @@ An exploration of demographics in Brooklyn, specifically for the zip codes under
 * coronavirus cases
 * coronavirus deaths
 * % black
-- % Latino
-- % not U.S. citizen or naturalized resident
-- building specific data
-- unemployment
-- family size
-- job loss
-- neighborhood crime rates
+* % Latino
+* % not U.S. citizen or naturalized resident
+* building specific data
+* unemployment
+* family size
+* job loss
+* neighborhood crime rates
