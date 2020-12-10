@@ -1,0 +1,32 @@
+---
+title: "Kings County Demographics"
+author: "Alisa Hartle"
+date: "December 10, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###Loading Libraries
+
+```{r}
+if (!require("pacman")) install.packages("pacman")
+
+pacman::p_load(tidycensus)
+```
+
+### Loading the API key
+
+```{r pressure, echo=FALSE}
+
+
+Sys.getenv("CENSUS_API_KEY")
+
+```
+
+```{r}
+
+
+```
